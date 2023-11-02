@@ -4,11 +4,13 @@ Hola! 👋 Mi nombre es Oscar Augusto Carreño Carreño
 Desarrrollador web
 -------------
 
-Actualmente estoy aprendiendo los usos de los fameworks existentes con los diferentes lenguajes de programación
+Actualmente estoy aprendiendo los usos de los fameworks existentes con diferentes lenguajes de programación
 
-* 🌍  Estoy en Bucaramanga, Colombia
-* ✉️  Puede ponerse en contacto conmigo en [ocarreno@uts.edu.co](mailto:ocarreno@uts.edu.co) [carrenooscar.95@gmail.com](mailto:carrenooscar.95@gmail.com)
-* 🧠  Tengo conocimientos en Node y React
+* 🌍  Me encuentro actualmente en Bucaramanga, Colombia
+* ✉️  Puede ponerse en contacto conmigo en [carrenooscar.95@gmail.com](mailto:carrenooscar.95@gmail.com)
+* 🧠  Tengo conocimientos en desarrollo Front-end utilizando (HTML5 "Avanzado", CSS3 "Intermedio-Avanzado", Bootstrap "Intermedio", JavaScript "React (Intermedio)")
+* 🧠  Tengo conocimientos en desarrollo Back-end utilizando (JavaScript "Node Js (Intermedio)", PHP "Laravel (Intermedio)", Python "Django (Intermedio)", Java "Intermedio")
+* 🧠  Manejo de Bases de Datos Relacionales con (PostgreSQL "Intermedio", MySQL "Intermedio") y NO Relacionales con (MongoDB "Intermedio")
 
 
 ### Skills
